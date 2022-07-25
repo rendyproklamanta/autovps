@@ -58,7 +58,7 @@ menu
 - untuk update Sertifikat SSL/TLS
 
 ```html
-slhost && certv2ray
+certv2ray
 ```
 
 - lalu restart
