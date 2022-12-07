@@ -17,8 +17,7 @@ sudo su
 
 # Khusus Untuk OS
 
-- • Debian 10 & 9
-  atau
+- • Debian 10 & 11
 - • Ubuntu 18.04 & 20.04
 - Working For VPS AWS,AZURE,DO
 
@@ -145,12 +144,6 @@ reboot
 
 • Auto Update
 
-### Os Supported
-
-• Debian 10 & 9
-
-• Ubuntu 18.04 & 20.04
-
 # Service & Port
 
 • SlowDNS : All Port SSH
@@ -227,13 +220,7 @@ reboot
 
 • IPv6 : [OFF]
 
-• Autoreboot On 05.00 GMT +7
-
-• Autoreboot On 00.00 GMT +7
-
-• Autoreboot On 12.00 GMT +7
-
-• Autoreboot On 18.00 GMT +7
+• Autoreboot On 03.00 GMT +7
 
 • Auto Delete Expired Account
 
