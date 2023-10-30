@@ -17,8 +17,8 @@ sudo su
 
 # Khusus Untuk OS
 
-- • Debian 10 & 11
-- • Ubuntu 18.04 & 20.04
+- Debian 10 & 11
+- Ubuntu 18.04 & 20.04
 - Working For VPS AWS,AZURE,DO
 
 ## Installation
@@ -40,8 +40,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 ### 4. DONE / SELESAI
 
-- • jika tidak bisa login di vps ,gunakan port ssh
-- • 22, 2253
+- jika tidak bisa login di vps ,gunakan port ssh
+- 2123
 
 ### 5. MENU, INFO ,UPDATE ,FIX
 
@@ -148,7 +148,7 @@ reboot
 
 • SlowDNS : All Port SSH
 
-• OpenSSH : 22, 2253
+• OpenSSH : 2123
 
 • Dropbear : 443, 109, 143, 1153
 
