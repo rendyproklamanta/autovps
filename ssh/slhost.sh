@@ -19,8 +19,8 @@ mkdir -p /etc/v2ray
 echo "$SUB_DOMAIN" >> /etc/v2ray/domain
 #
 
-SUB_DOMAIN=vpn.domain.com
-NS_DOMAIN=slowdns.domain.com
+SUB_DOMAIN=vpn.sajun.co.id
+NS_DOMAIN=slowdns.sajun.co.id
 
 rm -rf /etc/xray/domain
 rm -rf /root/nsdomain

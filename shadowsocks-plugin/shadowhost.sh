@@ -19,8 +19,8 @@ rm -rf /etc/shadowsocks/nsdomain
 rm -rf /var/lib/crot/ipvps.conf
 #
 
-SUB_DOMAIN=vpn.domain.com
-NS_DOMAIN=slowdns.domain.com
+SUB_DOMAIN=vpn.sajun.co.id
+NS_DOMAIN=slowdns.sajun.co.id
 
 echo "Host Shadowsocks : $SUB_DOMAIN"
 echo "$SUB_DOMAIN" >> /etc/shadowsocks/domain

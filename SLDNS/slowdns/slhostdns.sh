@@ -7,7 +7,7 @@ apt install jq curl -y
 rm -rf /root/nsdomain
 rm nsdomain
 
-DOMAIN=slowdns.domain.com
+DOMAIN=slowdns.sajun.co.id
 
 echo "Host : $DOMAIN"
 echo $DOMAIN > /root/subdomain

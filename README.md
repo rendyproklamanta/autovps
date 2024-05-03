@@ -26,7 +26,7 @@ sudo su
 - Rename domain name
 
 ```shell
-find -type f -exec sed -i 's/domain.com/YOUR_DOMAIN/g' {} +
+find -type f -exec sed -i 's/sajun.co.id/YOUR_DOMAIN/g' {} +
 ```
 
 - Update packages
