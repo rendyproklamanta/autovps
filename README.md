@@ -21,13 +21,7 @@ sudo su
 - Ubuntu 18.04 & 20.04
 - Working For VPS AWS,AZURE,DO
 
-## Steps
-
-- Clone
-
-```shell
-git clone https://github.com/rendyproklamanta/autovps.git
-```
+## Installation
 
 - Rename domain name
 
@@ -35,14 +29,11 @@ git clone https://github.com/rendyproklamanta/autovps.git
 find -type f -exec sed -i 's/domain.com/YOUR_DOMAIN/g' {} +
 ```
 
-## Installation
-
 - Update packages
 
 ```shell
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
-
 
 - Install Semua Layanan VPN /Install All VPN Service
 
